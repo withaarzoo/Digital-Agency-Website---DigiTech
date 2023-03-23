@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 7rem;
+}
+
+html::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+html::-webkit-scrollbar-track {
+    background: #fff;
+}
+
+html::-webkit-scrollbar-thumb {
+    background: #0d4571;
+    border-radius: 1rem;
+}
+
+section {
+    padding: 5rem 9%;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.heading span {
+    font-size: 2.5rem;
+}
+
+.heading h1 {
+    font-size: 4rem;
+    padding-top: .5rem;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    font-size: 2rem;
+    color: #fff;
+    background: linear-gradient(135deg, #0d4571, #0376c6);
+    cursor: pointer;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: .75rem;
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #0376c6, #0d4571);
+}
+
+.line-down {
+    position: relative;
+    display: inline-block;
+    z-index: 0;
+}
+
+.line-down::before {
+    content: "";
+    position: absolute;
+    bottom: .7rem;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    background: #0f95e8;
+    z-index: -1;
+    -webkit-clip-path: polygon(0 85%, 100% 75%, 100% 100%, 0% 100%);
+    clip-path: polygon(0 85%, 100% 75%, 100% 100%, 0% 100%);
+}
+
+@-webkit-keyframes fadeUp {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(4rem);
+        transform: translateY(4rem);
+    }
+}
+
+@keyframes fadeUp {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(4rem);
+        transform: translateY(4rem);
+    }
+}
+
+/* header start */
+
+/* header end */
+
+
+/* home start */
+
+/* home end */
+
+
+/* service start */
+
+/* service end */
+
+
+/* about start */
+
+/* about end */
+
+
+/* step start */
+
+/* step end */
+
+
+/* features start */
+
+/* features end */
+
+
+/* pricing start */
+
+/* pricing end */
+
+
+/* reviews start */
+
+/* reviews end */
+
+
+/* faq start */
+
+/* faq end */
+
+
+/* newsletter start */
+
+/* newsletter end */
+
+
+/* footer start */
+
+/* footer end */
+
+
+
+/* responsive */
