@@ -29,7 +29,7 @@ cd Digital-Agency-Website---DigiTech
 A tutorial video on how to build DigiTech is available on YouTube.
 
 ## Full Source Code
-To download the source code, please click on the following link: (Click Here)[https://rb.gy/bxz3lz]
+To download the source code, please click on the following link: [Click Here](https://rb.gy/bxz3lz)
 
 ## Preview
 
