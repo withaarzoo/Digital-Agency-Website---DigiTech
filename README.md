@@ -32,4 +32,4 @@ A tutorial video on how to build DigiTech is available on YouTube.
 To download the source code, please click on the following link: [Click Here](https://rb.gy/bxz3lz)
 
 ## Preview
-
+![Digital Agency Website - DigiTech](https://user-images.githubusercontent.com/59678435/227298844-b00881ed-7e4f-418a-bde6-8e2cb75fbf60.png)
