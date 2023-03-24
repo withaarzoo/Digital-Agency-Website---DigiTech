@@ -26,7 +26,7 @@ cd Digital-Agency-Website---DigiTech
 3. Open the `index.html` file in your browser.
 
 ## Tutorial Video
-A tutorial video on how to build DigiTech is available on YouTube .
+A tutorial video on how to build DigiTech is available on [YouTube](https://youtu.be/eZMsSSXBdKE) .
 
 ## Full Source Code
 To download the source code, please click on the following link: [Click Here](https://rb.gy/bxz3lz)
